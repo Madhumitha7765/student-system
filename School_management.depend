@@ -1,0 +1,161 @@
+# depslib dependency file v1.0
+1620662208 source:e:\sem 2\oop\school_management\main.cpp
+	<iostream>
+	"Admin.h"
+	"Teacher.h"
+	"Student.h"
+
+1620666666 e:\sem 2\oop\school_management\admin.h
+	<iostream>
+	"Teacher.h"
+	"Student.h"
+	"Subject.h"
+	"Class.h"
+
+1620666865 source:e:\sem 2\oop\school_management\admin.cpp
+	"Admin.h"
+	"Teacher.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdio>
+	<string>
+
+1620668928 source:e:\sem 2\oop\school_management\teacher.cpp
+	"Teacher.h"
+	<fstream>
+	<iomanip>
+	<string>
+
+1620625977 e:\sem 2\oop\school_management\teacher.h
+	<iostream>
+
+1620116881 e:\sem 2\oop\school_management\\admin.h
+	<iostream>
+	"Teacher.h"
+
+1620116961 e:\sem 2\oop\school_management\\teacher.h
+	<iostream>
+	<Admin.h>
+
+1620117769 source:e:\sem 2\oop\school_management\class.cpp
+	"Class.h"
+
+1620117769 e:\sem 2\oop\school_management\class.h
+
+1620117727 source:e:\sem 2\oop\school_management\division.cpp
+	"Division.h"
+
+1620117727 e:\sem 2\oop\school_management\division.h
+
+1620666666 source:e:\sem 2\oop\school_management\student.cpp
+	"Student.h"
+	<fstream>
+	<string>
+
+1620630763 e:\sem 2\oop\school_management\student.h
+	<iostream>
+
+1620117706 source:e:\sem 2\oop\school_management\subject.cpp
+	"Subject.h"
+
+1620117706 e:\sem 2\oop\school_management\subject.h
+
+1620717444 source:c:\users\91890\downloads\school_management (1)\school_management\class.cpp
+	"Class.h"
+
+1620717444 c:\users\91890\downloads\school_management (1)\school_management\class.h
+
+1620719468 source:c:\users\91890\downloads\school_management (1)\school_management\main.cpp
+	<iostream>
+	"Admin.h"
+	"Teacher.h"
+	"Student.h"
+
+1620717443 c:\users\91890\downloads\school_management (1)\school_management\admin.h
+	<iostream>
+	"Teacher.h"
+	"Student.h"
+	"Subject.h"
+	"Class.h"
+
+1620717444 c:\users\91890\downloads\school_management (1)\school_management\teacher.h
+	<iostream>
+
+1620717444 c:\users\91890\downloads\school_management (1)\school_management\student.h
+	<iostream>
+
+1620717444 c:\users\91890\downloads\school_management (1)\school_management\subject.h
+
+1620719389 source:c:\users\91890\downloads\school_management (1)\school_management\student.cpp
+	"Student.h"
+	<fstream>
+	<string>
+
+1620717444 source:c:\users\91890\downloads\school_management (1)\school_management\subject.cpp
+	"Subject.h"
+
+1620719385 source:c:\users\91890\downloads\school_management (1)\school_management\teacher.cpp
+	"Teacher.h"
+	<fstream>
+	<iomanip>
+	<string>
+
+1620719966 source:c:\users\91890\downloads\school_management (1)\school_management\admin.cpp
+	"Admin.h"
+	"Teacher.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdio>
+	<string>
+
+1620717444 source:c:\users\91890\onedrive\desktop\school_management (1)\school_management\class.cpp
+	"Class.h"
+
+1620717444 c:\users\91890\onedrive\desktop\school_management (1)\school_management\class.h
+
+1620717444 source:c:\users\91890\onedrive\desktop\school_management (1)\school_management\subject.cpp
+	"Subject.h"
+
+1620717444 c:\users\91890\onedrive\desktop\school_management (1)\school_management\subject.h
+
+1620730305 source:c:\users\91890\onedrive\desktop\school_management (1)\school_management\admin.cpp
+	"Admin.h"
+	"Teacher.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdio>
+	<string>
+
+1620717443 c:\users\91890\onedrive\desktop\school_management (1)\school_management\admin.h
+	<iostream>
+	"Teacher.h"
+	"Student.h"
+	"Subject.h"
+	"Class.h"
+
+1620717444 c:\users\91890\onedrive\desktop\school_management (1)\school_management\teacher.h
+	<iostream>
+
+1620717444 c:\users\91890\onedrive\desktop\school_management (1)\school_management\student.h
+	<iostream>
+
+1620729980 source:c:\users\91890\onedrive\desktop\school_management (1)\school_management\main.cpp
+	<iostream>
+	"Admin.h"
+	"Teacher.h"
+	"Student.h"
+
+1620730459 source:c:\users\91890\onedrive\desktop\school_management (1)\school_management\student.cpp
+	"Student.h"
+	<fstream>
+	<string>
+
+1620730395 source:c:\users\91890\onedrive\desktop\school_management (1)\school_management\teacher.cpp
+	"Teacher.h"
+	<fstream>
+	<iomanip>
+	<string>
+

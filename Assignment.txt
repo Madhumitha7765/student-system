@@ -1,0 +1,5 @@
+111	11	a	2	10	hello	hi	---	---	---
+987	12	aq	2	10	 c++	 is abstraction?	---	---	---
+222	11	qq	3	15	 are you?	 is your name?	 are you?	 	 
+999	11	aq	3	15	what are you doing?	how are you?	what is your name?	 	 
+1	1	poq	2	10	lo	po	 	 	 
